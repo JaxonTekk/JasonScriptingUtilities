@@ -1,0 +1,17 @@
+{
+  "permalink": "/JasonScriptingUtilities/blog/release",
+  "editUrl": "https://github.com/JaxonTekk/JasonScriptingUtilities/blog/blog/2021-04-18-beta-release.md",
+  "source": "@site/blog/2021-04-18-beta-release.md",
+  "title": "BETA Release",
+  "description": "I am excited to announce the release of JasonScriptingUtilities. As this is a BETA program, there may be MANY bugs. Visit https://github.com/JaxonTekk/JasonScriptingUtilities/releases to download it.",
+  "date": "2021-04-18T00:00:00.000Z",
+  "formattedDate": "April 17, 2021",
+  "tags": [
+    {
+      "label": "release",
+      "permalink": "/JasonScriptingUtilities/blog/tags/release"
+    }
+  ],
+  "readingTime": 0.205,
+  "truncated": true
+}

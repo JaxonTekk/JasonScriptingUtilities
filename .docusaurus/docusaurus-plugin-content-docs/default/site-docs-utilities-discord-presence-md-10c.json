@@ -1,0 +1,26 @@
+{
+  "unversionedId": "utilities/discordPresence",
+  "id": "utilities/discordPresence",
+  "isDocsHomePage": false,
+  "title": "Custom Discord Presence",
+  "description": "Click on Edit This Page to improve the documentation.",
+  "source": "@site/docs/utilities/discordPresence.md",
+  "sourceDirName": "utilities",
+  "slug": "/utilities/discordPresence",
+  "permalink": "/JasonScriptingUtilities/docs/utilities/discordPresence",
+  "editUrl": "https://github.com/JaxonTekk/JasonScriptingUtilities/docs/utilities/discordPresence.md",
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Auto Clicker",
+    "permalink": "/JasonScriptingUtilities/docs/utilities/spotifyAdBlocker"
+  },
+  "next": {
+    "title": "Spotify Ad Blocker",
+    "permalink": "/JasonScriptingUtilities/docs/utilities/autoClicker"
+  }
+}

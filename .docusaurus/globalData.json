@@ -1,0 +1,43 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/JasonScriptingUtilities/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/JasonScriptingUtilities/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "gettingstarted",
+              "path": "/JasonScriptingUtilities/docs/gettingstarted",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/JasonScriptingUtilities/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "utilities/autoClicker",
+              "path": "/JasonScriptingUtilities/docs/utilities/autoClicker",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "utilities/discordPresence",
+              "path": "/JasonScriptingUtilities/docs/utilities/discordPresence",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "utilities/spotifyAdBlocker",
+              "path": "/JasonScriptingUtilities/docs/utilities/spotifyAdBlocker",
+              "sidebar": "tutorialSidebar"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

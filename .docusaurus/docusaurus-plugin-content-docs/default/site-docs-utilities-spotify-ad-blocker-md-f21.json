@@ -1,0 +1,26 @@
+{
+  "unversionedId": "utilities/spotifyAdBlocker",
+  "id": "utilities/spotifyAdBlocker",
+  "isDocsHomePage": false,
+  "title": "Auto Clicker",
+  "description": "Click on Edit This Page to improve the documentation.",
+  "source": "@site/docs/utilities/spotifyAdBlocker.md",
+  "sourceDirName": "utilities",
+  "slug": "/utilities/spotifyAdBlocker",
+  "permalink": "/JasonScriptingUtilities/docs/utilities/spotifyAdBlocker",
+  "editUrl": "https://github.com/JaxonTekk/JasonScriptingUtilities/docs/utilities/spotifyAdBlocker.md",
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/JasonScriptingUtilities/docs/gettingstarted"
+  },
+  "next": {
+    "title": "Custom Discord Presence",
+    "permalink": "/JasonScriptingUtilities/docs/utilities/discordPresence"
+  }
+}

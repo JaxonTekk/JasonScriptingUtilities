@@ -1,0 +1,22 @@
+{
+  "unversionedId": "intro",
+  "id": "intro",
+  "isDocsHomePage": false,
+  "title": "Introduction",
+  "description": "This client provides a compact and powerful User Interface, containing numerous of exclusive features. Built upon a C# framework, this client supports users from Windows XP - Windows 10.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/JasonScriptingUtilities/docs/intro",
+  "editUrl": "https://github.com/JaxonTekk/JasonScriptingUtilities/docs/intro.md",
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Getting Started",
+    "permalink": "/JasonScriptingUtilities/docs/gettingstarted"
+  }
+}

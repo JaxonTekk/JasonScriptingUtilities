@@ -1,0 +1,49 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Introduction",
+        "href": "/JasonScriptingUtilities/docs/intro"
+      },
+      {
+        "type": "link",
+        "label": "Getting Started",
+        "href": "/JasonScriptingUtilities/docs/gettingstarted"
+      },
+      {
+        "type": "category",
+        "label": "Utilities",
+        "items": [
+          {
+            "type": "link",
+            "label": "Auto Clicker",
+            "href": "/JasonScriptingUtilities/docs/utilities/spotifyAdBlocker"
+          },
+          {
+            "type": "link",
+            "label": "Custom Discord Presence",
+            "href": "/JasonScriptingUtilities/docs/utilities/discordPresence"
+          },
+          {
+            "type": "link",
+            "label": "Spotify Ad Blocker",
+            "href": "/JasonScriptingUtilities/docs/utilities/autoClicker"
+          }
+        ],
+        "collapsed": true
+      }
+    ]
+  },
+  "permalinkToSidebar": {
+    "/JasonScriptingUtilities/docs/gettingstarted": "tutorialSidebar",
+    "/JasonScriptingUtilities/docs/intro": "tutorialSidebar",
+    "/JasonScriptingUtilities/docs/utilities/autoClicker": "tutorialSidebar",
+    "/JasonScriptingUtilities/docs/utilities/discordPresence": "tutorialSidebar",
+    "/JasonScriptingUtilities/docs/utilities/spotifyAdBlocker": "tutorialSidebar"
+  }
+}

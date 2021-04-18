@@ -1,0 +1,411 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "2": [
+      0,
+      1,
+      13,
+      16,
+      19,
+      2
+    ],
+    "common": [
+      1,
+      2,
+      3,
+      5,
+      6,
+      7,
+      10,
+      11,
+      13,
+      14,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      24,
+      25,
+      26,
+      0
+    ],
+    "styles": [
+      0,
+      2,
+      3,
+      7,
+      13,
+      16,
+      18,
+      19,
+      22,
+      23,
+      24,
+      25,
+      26,
+      1
+    ],
+    "@theme/BlogTagsListPage": [
+      0,
+      1,
+      3
+    ],
+    "~blog/default/jason-scripting-utilities-blog-tags-tags-dff.json": [
+      4
+    ],
+    "@site/docs/intro.md": [
+      0,
+      5
+    ],
+    "@site/docs/utilities/discordPresence.md": [
+      0,
+      6
+    ],
+    "@theme/DocItem": [
+      0,
+      1,
+      7
+    ],
+    "D:\\jsuDocs\\.docusaurus\\docusaurus-plugin-content-blog\\default\\blog-post-list-prop-default.json": [
+      8
+    ],
+    "~blog/default/jason-scripting-utilities-blog-tags-release-945.json": [
+      9
+    ],
+    "@site/src/pages/markdown-page.md": [
+      0,
+      10
+    ],
+    "@site/blog/2021-04-18-beta-release.md?truncated=true": [
+      0,
+      11
+    ],
+    "~blog/default/jason-scripting-utilities-blog-0ef.json": [
+      12
+    ],
+    "@theme/BlogTagsPostsPage": [
+      0,
+      1,
+      2,
+      13
+    ],
+    "@site/blog/2021-04-18-beta-release.md": [
+      0,
+      14
+    ],
+    "~docs/default/version-current-metadata-prop-751.json": [
+      15
+    ],
+    "@theme/BlogListPage": [
+      0,
+      1,
+      2,
+      16
+    ],
+    "@site/docs/utilities/autoClicker.md": [
+      0,
+      17
+    ],
+    "@site/src/pages/index.js": [
+      0,
+      1,
+      18
+    ],
+    "@theme/BlogPostPage": [
+      0,
+      1,
+      2,
+      19
+    ],
+    "@site/docs/gettingstarted.md": [
+      0,
+      20
+    ],
+    "@site/docs/utilities/spotifyAdBlocker.md": [
+      0,
+      21
+    ],
+    "@generated/docusaurus.config": [
+      1,
+      23,
+      22
+    ],
+    "main": [
+      1,
+      23,
+      22
+    ],
+    "runtime~main": [
+      1,
+      22,
+      23
+    ],
+    "@theme/DocPage": [
+      0,
+      1,
+      26
+    ],
+    "@theme/NotFound": [
+      0,
+      1,
+      26
+    ],
+    "@theme/MDXPage": [
+      0,
+      1,
+      25
+    ]
+  },
+  "assets": {
+    "0": {
+      "js": [
+        {
+          "file": "assets/js/common.57181981.js",
+          "hash": "79107ec5845f1b158a89",
+          "publicPath": "/JasonScriptingUtilities/assets/js/common.57181981.js"
+        }
+      ]
+    },
+    "1": {
+      "css": [
+        {
+          "file": "assets/css/styles.6fbc3b37.css",
+          "hash": "a02a78233c3900affab6",
+          "publicPath": "/JasonScriptingUtilities/assets/css/styles.6fbc3b37.css"
+        }
+      ],
+      "js": [
+        {
+          "file": "assets/js/styles.35f667c0.js",
+          "hash": "a02a78233c3900affab6",
+          "publicPath": "/JasonScriptingUtilities/assets/js/styles.35f667c0.js"
+        }
+      ]
+    },
+    "2": {
+      "js": [
+        {
+          "file": "assets/js/2.864ff003.js",
+          "hash": "279ee449361545e9576d",
+          "publicPath": "/JasonScriptingUtilities/assets/js/2.864ff003.js"
+        }
+      ]
+    },
+    "3": {
+      "js": [
+        {
+          "file": "assets/js/01a85c17.3882d915.js",
+          "hash": "4b7fdfa51f936a0a6740",
+          "publicPath": "/JasonScriptingUtilities/assets/js/01a85c17.3882d915.js"
+        }
+      ]
+    },
+    "4": {
+      "js": [
+        {
+          "file": "assets/js/0417479f.c0bf9525.js",
+          "hash": "c56edf3d92d75dc27639",
+          "publicPath": "/JasonScriptingUtilities/assets/js/0417479f.c0bf9525.js"
+        }
+      ]
+    },
+    "5": {
+      "js": [
+        {
+          "file": "assets/js/0e384e19.c6cb07be.js",
+          "hash": "f83ea6b07c79cfdfe4f8",
+          "publicPath": "/JasonScriptingUtilities/assets/js/0e384e19.c6cb07be.js"
+        }
+      ]
+    },
+    "6": {
+      "js": [
+        {
+          "file": "assets/js/10c603e9.7512a1ad.js",
+          "hash": "3dac4c81c76ee350ea1a",
+          "publicPath": "/JasonScriptingUtilities/assets/js/10c603e9.7512a1ad.js"
+        }
+      ]
+    },
+    "7": {
+      "js": [
+        {
+          "file": "assets/js/17896441.9f9dd6bf.js",
+          "hash": "2c494e521611e66dbf21",
+          "publicPath": "/JasonScriptingUtilities/assets/js/17896441.9f9dd6bf.js"
+        }
+      ]
+    },
+    "8": {
+      "js": [
+        {
+          "file": "assets/js/18042742.7ec0eb29.js",
+          "hash": "59a7dcadb6dde956a0a9",
+          "publicPath": "/JasonScriptingUtilities/assets/js/18042742.7ec0eb29.js"
+        }
+      ]
+    },
+    "9": {
+      "js": [
+        {
+          "file": "assets/js/34e5d0d5.ab1289b4.js",
+          "hash": "6b6f56b830f074448f93",
+          "publicPath": "/JasonScriptingUtilities/assets/js/34e5d0d5.ab1289b4.js"
+        }
+      ]
+    },
+    "10": {
+      "js": [
+        {
+          "file": "assets/js/393be207.cf811824.js",
+          "hash": "f0302649b466a42e7e4d",
+          "publicPath": "/JasonScriptingUtilities/assets/js/393be207.cf811824.js"
+        }
+      ]
+    },
+    "11": {
+      "js": [
+        {
+          "file": "assets/js/41913fb0.ce1bc0f0.js",
+          "hash": "6331b93f2e8f941f49ec",
+          "publicPath": "/JasonScriptingUtilities/assets/js/41913fb0.ce1bc0f0.js"
+        }
+      ]
+    },
+    "12": {
+      "js": [
+        {
+          "file": "assets/js/41ec4b8e.18715d0a.js",
+          "hash": "094586d6974928c018cd",
+          "publicPath": "/JasonScriptingUtilities/assets/js/41ec4b8e.18715d0a.js"
+        }
+      ]
+    },
+    "13": {
+      "js": [
+        {
+          "file": "assets/js/6875c492.abb13f64.js",
+          "hash": "40bb204015bb7737fba2",
+          "publicPath": "/JasonScriptingUtilities/assets/js/6875c492.abb13f64.js"
+        }
+      ]
+    },
+    "14": {
+      "js": [
+        {
+          "file": "assets/js/6b6285b2.c856029a.js",
+          "hash": "62274b6f261b60021478",
+          "publicPath": "/JasonScriptingUtilities/assets/js/6b6285b2.c856029a.js"
+        }
+      ]
+    },
+    "15": {
+      "js": [
+        {
+          "file": "assets/js/935f2afb.552e5c6f.js",
+          "hash": "877fc4d041f467cbcd67",
+          "publicPath": "/JasonScriptingUtilities/assets/js/935f2afb.552e5c6f.js"
+        }
+      ]
+    },
+    "16": {
+      "js": [
+        {
+          "file": "assets/js/a6aa9e1f.03287071.js",
+          "hash": "b32669beefb3b196c41b",
+          "publicPath": "/JasonScriptingUtilities/assets/js/a6aa9e1f.03287071.js"
+        }
+      ]
+    },
+    "17": {
+      "js": [
+        {
+          "file": "assets/js/bb597abb.40b192c3.js",
+          "hash": "920ff9a67126898771d7",
+          "publicPath": "/JasonScriptingUtilities/assets/js/bb597abb.40b192c3.js"
+        }
+      ]
+    },
+    "18": {
+      "js": [
+        {
+          "file": "assets/js/c4f5d8e4.16632a8d.js",
+          "hash": "b8221a9604946f81b8e0",
+          "publicPath": "/JasonScriptingUtilities/assets/js/c4f5d8e4.16632a8d.js"
+        }
+      ]
+    },
+    "19": {
+      "js": [
+        {
+          "file": "assets/js/ccc49370.0910e565.js",
+          "hash": "ce6910b66260c0520b4c",
+          "publicPath": "/JasonScriptingUtilities/assets/js/ccc49370.0910e565.js"
+        }
+      ]
+    },
+    "20": {
+      "js": [
+        {
+          "file": "assets/js/da7e18d7.286c2151.js",
+          "hash": "73de1873dac1616ddfd5",
+          "publicPath": "/JasonScriptingUtilities/assets/js/da7e18d7.286c2151.js"
+        }
+      ]
+    },
+    "21": {
+      "js": [
+        {
+          "file": "assets/js/f212cf67.608250ef.js",
+          "hash": "3e7fb4efbe7ece890dcd",
+          "publicPath": "/JasonScriptingUtilities/assets/js/f212cf67.608250ef.js"
+        }
+      ]
+    },
+    "22": {
+      "js": [
+        {
+          "file": "assets/js/main.130087dd.js",
+          "hash": "304b021966348e4d21b1",
+          "publicPath": "/JasonScriptingUtilities/assets/js/main.130087dd.js"
+        }
+      ]
+    },
+    "23": {
+      "js": [
+        {
+          "file": "assets/js/runtime~main.51ffc84a.js",
+          "hash": "75335963e39f828940df",
+          "publicPath": "/JasonScriptingUtilities/assets/js/runtime~main.51ffc84a.js"
+        }
+      ]
+    },
+    "25": {
+      "js": [
+        {
+          "file": "assets/js/25.bd628fe8.js",
+          "hash": "7b6c6aa4e6f609536fcb",
+          "publicPath": "/JasonScriptingUtilities/assets/js/25.bd628fe8.js"
+        }
+      ]
+    },
+    "26": {
+      "js": [
+        {
+          "file": "assets/js/24.ad846834.js",
+          "hash": "3d6fd8132cbb0b877718",
+          "publicPath": "/JasonScriptingUtilities/assets/js/24.ad846834.js"
+        },
+        {
+          "file": "assets/js/26.9ca1d055.js",
+          "hash": "b8d3b39b75a192189bb4",
+          "publicPath": "/JasonScriptingUtilities/assets/js/26.9ca1d055.js"
+        }
+      ]
+    }
+  }
+}

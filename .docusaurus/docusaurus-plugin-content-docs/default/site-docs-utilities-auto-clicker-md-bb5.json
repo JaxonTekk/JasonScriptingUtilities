@@ -1,0 +1,22 @@
+{
+  "unversionedId": "utilities/autoClicker",
+  "id": "utilities/autoClicker",
+  "isDocsHomePage": false,
+  "title": "Spotify Ad Blocker",
+  "description": "You only need to this once, after you do this you will never need to do this again.",
+  "source": "@site/docs/utilities/autoClicker.md",
+  "sourceDirName": "utilities",
+  "slug": "/utilities/autoClicker",
+  "permalink": "/JasonScriptingUtilities/docs/utilities/autoClicker",
+  "editUrl": "https://github.com/JaxonTekk/JasonScriptingUtilities/docs/utilities/autoClicker.md",
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Custom Discord Presence",
+    "permalink": "/JasonScriptingUtilities/docs/utilities/discordPresence"
+  }
+}
