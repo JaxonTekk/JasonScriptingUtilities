@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>JasonScriptingUtilities Blog</title>
+        <link>https://jaxontekk.github.io/blog</link>
+        <description>JasonScriptingUtilities Blog</description>
+        <lastBuildDate>Sun, 18 Apr 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BETA Release]]></title>
+            <link>https://jaxontekk.github.io/blog/release</link>
+            <guid>release</guid>
+            <pubDate>Sun, 18 Apr 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[I am excited to announce the release of JasonScriptingUtilities. As this is a BETA program, there may be MANY bugs. Visit https://github.com/JaxonTekk/JasonScriptingUtilities/releases to download it.]]></description>
+        </item>
+    </channel>
+</rss>

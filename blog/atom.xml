@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://jaxontekk.github.io/blog</id>
+    <title>JasonScriptingUtilities Blog</title>
+    <updated>2021-04-18T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://jaxontekk.github.io/blog"/>
+    <subtitle>JasonScriptingUtilities Blog</subtitle>
+    <icon>https://jaxontekk.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[BETA Release]]></title>
+        <id>release</id>
+        <link href="https://jaxontekk.github.io/blog/release"/>
+        <updated>2021-04-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I am excited to announce the release of JasonScriptingUtilities. As this is a BETA program, there may be MANY bugs. Visit https://github.com/JaxonTekk/JasonScriptingUtilities/releases to download it.]]></summary>
+    </entry>
+</feed>
