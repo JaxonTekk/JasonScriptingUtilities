@@ -24,7 +24,13 @@ This client supports Windows XP - Windows 10. We may release a client that would
 
 ## Screenshots
 
-<img src="https://media.discordapp.net/attachments/740320598030549192/833565682573639750/unknown.png" alt="Screenshot">
+Home Page
+
+<img src="https://media.discordapp.net/attachments/740320598030549192/833565682573639750/unknown.png" alt="Home Page Screenshot">
+
+Custom Discord Presence
+
+<img src="https://media.discordapp.net/attachments/740320598030549192/833722169347014697/unknown.png" alt="Custom Discord Presence">
 
 ## Support
 
