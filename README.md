@@ -22,6 +22,10 @@ JasonScriptingUtilities is a client that provides numerous exclusive features. F
 
 This client supports Windows XP - Windows 10. We may release a client that would support MacOS.
 
+## Screenshots
+
+<img src="https://media.discordapp.net/attachments/740320598030549192/833565682573639750/unknown.png" alt="Screenshot">
+
 ## Support
 
 Need help with using JasonScriptingUtilities? Join the [discord server](https://discord.gg/ZEDUWwJZPy) to ask for help and discuss about JasonScriptingUtilities.
