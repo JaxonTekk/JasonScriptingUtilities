@@ -22,6 +22,13 @@ JasonScriptingUtilities is a client that provides numerous exclusive features. F
 
 This client supports Windows XP - Windows 10. We may release a client that would support MacOS.
 
+## Instalation
+1. Download the .ZIP folder from https://github.com/JaxonTekk/JasonScriptingUtilities/releases
+2. Extract the entire folder.
+3. Open up `JasonScriptingUtilitiesExecutor`. 
+
+Note: Do not move anything around inside that folder.
+
 ## Screenshots
 
 Home Page
