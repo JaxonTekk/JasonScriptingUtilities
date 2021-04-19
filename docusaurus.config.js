@@ -77,13 +77,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/JaxonTekk/JasonScriptingUtilities',
+            'https://github.com/JaxonTekk/JasonScriptingUtilities/blob/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/JaxonTekk/JasonScriptingUtilities/blog/',
+            'https://github.com/JaxonTekk/JasonScriptingUtilities/blob/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
