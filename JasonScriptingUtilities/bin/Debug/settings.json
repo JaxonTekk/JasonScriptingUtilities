@@ -1,0 +1,48 @@
+{
+  "autoClickerSettings": {
+    "clickInterval": {
+      "hours": 0,
+      "minutes": 0,
+      "seconds": 3,
+      "milliseconds": 0
+    },
+    "clickOptions": {
+      "mouseButton": "Left",
+      "clickType": "Single"
+    },
+    "clickRepeat": {
+      "repeat": true,
+      "repeatTimes": 5,
+      "repeatUntilStopped": false,
+      "randomRepeat": false,
+      "randomRepeatDelay": 1
+    },
+    "cursorPosition": {
+      "currentLocation": true,
+      "pickLocation": false,
+      "pickLocationXValue": 1,
+      "pickLocationYValue": 1
+    },
+    "hotKey": {
+      "startStopHotKey": "F5",
+      "shutDownHotKey": "F6"
+    }
+  },
+  "discordPresenceSettings": {
+    "clientID": "832430713575047178",
+    "text1": "jsu.jaxontekk.com",
+    "text2": "",
+    "selectedLargeKey": "logo",
+    "largeKeyText": "",
+    "selectedSmallKey": "logo",
+    "smallKeyText": "",
+    "showElaspedTime": true
+  },
+  "spotifyAdSkipper": {
+    "code": "AQD9LKAddTQB-2xaf-8enZCEXcix15BI0Mtv4a3v0SCsZl3xN6_kwRpIhILT6NjNDZXSScKBPxnhM7IbqvuL73PnjlDT2HmXeceuLNDk3V58lteFPbg8vayEy--riSA1e4BalEXOC8nU0zJo-n2G8u7fWiZ8bbtBCYa2Ws7KKv-hs_3-NhhpvjquGGdiRHR0NnTU3NvZqZQgwMo",
+    "expireTimeStamp": 1632897104,
+    "accessToken": "BQCF6MFQ5S7w1uyN5LY6rnAZvZTQ6OlEXPA1QyPDl_tHhXKB19l6wd0pCBjd2CHHD3uXudkmippML0uMnvA0HhnQ54sJvly_PKWziwimRTCQz774OzgcAEQvazZ9T_IXZ8yjuYxEymuOUCwq2DSs8E2uKw",
+    "refresh_token": "AQDJaCfVRt0g7L2yeXNKcVRFYFdnqAG3om57sr_rx-cK7IpwYo-fsncKXUZ2uB0D6szyxl8gp5BX7KOBCM-1nifoy6_g4GAIzmrsn2Wy-Gu_iRlra3n81OeJrkQ0eizfer4",
+    "delayTime": 5000
+  }
+}

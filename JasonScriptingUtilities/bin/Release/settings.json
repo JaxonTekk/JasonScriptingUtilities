@@ -1,0 +1,48 @@
+{
+  "autoClickerSettings": {
+    "clickInterval": {
+      "hours": 0,
+      "minutes": 0,
+      "seconds": 3,
+      "milliseconds": 0
+    },
+    "clickOptions": {
+      "mouseButton": "Left",
+      "clickType": "Single"
+    },
+    "clickRepeat": {
+      "repeat": true,
+      "repeatTimes": 5,
+      "repeatUntilStopped": false,
+      "randomRepeat": false,
+      "randomRepeatDelay": 1
+    },
+    "cursorPosition": {
+      "currentLocation": true,
+      "pickLocation": false,
+      "pickLocationXValue": 1,
+      "pickLocationYValue": 1
+    },
+    "hotKey": {
+      "startStopHotKey": "F5",
+      "shutDownHotKey": "F6"
+    }
+  },
+  "discordPresenceSettings": {
+    "clientID": "832430713575047178",
+    "text1": "test",
+    "text2": "test",
+    "selectedLargeKey": "logo",
+    "largeKeyText": "test",
+    "selectedSmallKey": "logo",
+    "smallKeyText": "test",
+    "showElaspedTime": true
+  },
+  "spotifyAdSkipper": {
+    "code": "AQBFPtOAN3dcjJfULVe8em11mxUrK87Uifig926y7DPMvvRcCP346zvsl_RMi0n5S0ZhtBiFoRaiHlK4HuHuZFV2CfOaS9IXjNvrgRDKUmxRP9l_iuFfzikKOO5pz4AmX4CXY6gGo6cnNsH9muRGih5onvfg-1-8n1ODm6SKMyvYAFq5VhXm_JjtVmkWbzqimlFMCoksdWOn36M",
+    "expireTimeStamp": 1633403101,
+    "accessToken": "BQCzPN388iZmTjykmz7JkrJkAkyQOWTQQCCZb74HKSHD5YGdy5kuM8mAJOXPSMHGSTjCqC6SylzgJ8KaPw1bjt2XsTzTNsQ6DRofRX6Pee4ZvUWoTtORcRYLG4FgT3ucnodEF7iupwOfP7a5a7n4PHY47A",
+    "refresh_token": "AQDNQ8XaTy776pjRLlQJ742lbEW83esbE-McUot-bPc4wPy-Js4xfvl35CEL96QdkvX4opCAeXI7oos5Vyg9s11AOU7zgvV2RsgBvJKzeb-9wb2d91opaf4JuDFgytH7Jjs",
+    "delayTime": 5000
+  }
+}

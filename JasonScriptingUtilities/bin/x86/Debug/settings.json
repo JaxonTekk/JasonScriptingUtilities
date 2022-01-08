@@ -1,0 +1,48 @@
+{
+  "autoClickerSettings": {
+    "clickInterval": {
+      "hours": 0,
+      "minutes": 0,
+      "seconds": 3,
+      "milliseconds": 0
+    },
+    "clickOptions": {
+      "mouseButton": "Left",
+      "clickType": "Single"
+    },
+    "clickRepeat": {
+      "repeat": true,
+      "repeatTimes": 5,
+      "repeatUntilStopped": false,
+      "randomRepeat": false,
+      "randomRepeatDelay": 1
+    },
+    "cursorPosition": {
+      "currentLocation": true,
+      "pickLocation": false,
+      "pickLocationXValue": 1,
+      "pickLocationYValue": 1
+    },
+    "hotKey": {
+      "startStopHotKey": "F5",
+      "shutDownHotKey": "F6"
+    }
+  },
+  "discordPresenceSettings": {
+    "clientID": "",
+    "text1": "",
+    "text2": "",
+    "selectedLargeKey": "",
+    "largeKeyText": "",
+    "selectedSmallKey": "",
+    "smallKeyText": "",
+    "showElaspedTime": false
+  },
+  "spotifyAdSkipper": {
+    "code": "",
+    "expireTimeStamp": 1618768905,
+    "accessToken": "",
+    "refresh_token": "",
+    "delayTime": 5000
+  }
+}
